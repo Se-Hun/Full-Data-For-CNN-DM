@@ -32,3 +32,5 @@ $ python collect_full_data.py
 - [ ] Code for Fast Request -- url get
 
 ### Refrences
+- [HarvardNLP/Sent-summary](https://github.com/harvardnlp/sent-summary)
+- [abisee/cnn-dailymail](https://github.com/abisee/cnn-dailymail)
