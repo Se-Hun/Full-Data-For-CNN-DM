@@ -76,6 +76,7 @@ def collect_full_data(fns, mode):
             "text" : text,
             "title" : title,
             "date" : date,
+            "url" : url,
             "abstractive_summary" : abs,
             "extractive_summary" : ext
         })
